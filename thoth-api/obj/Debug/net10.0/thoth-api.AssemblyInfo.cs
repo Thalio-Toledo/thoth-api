@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("thoth-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bba132ffb1f923aa1301bfe788ac34a584cdc1d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("thoth-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("thoth-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

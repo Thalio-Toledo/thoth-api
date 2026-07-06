@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|c:\\users\\thalio\\documents\\projects\\thoth-api\\thoth-api\\presentation\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|solutionrelative:thoth-api\\presentation\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|c:\\users\\thalio\\documents\\projects\\thoth-api\\thoth-api\\application\\profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|solutionrelative:thoth-api\\application\\profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|c:\\users\\thalio\\documents\\projects\\thoth-api\\thoth-api\\thoth-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|solutionrelative:thoth-api\\thoth-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|c:\\users\\thalio\\documents\\projects\\thoth-api\\thoth-api\\domain\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|solutionrelative:thoth-api\\domain\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|c:\\users\\thalio\\documents\\projects\\thoth-api\\thoth-api\\domain\\assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|solutionrelative:thoth-api\\domain\\assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|c:\\users\\thalio\\documents\\projects\\thoth-api\\thoth-api\\dtos\\metricdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|solutionrelative:thoth-api\\dtos\\metricdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|c:\\users\\thalio\\documents\\projects\\thoth-api\\thoth-api\\domain\\metric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,48 +27,12 @@
       "RelativeMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|solutionrelative:thoth-api\\domain\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|c:\\users\\thalio\\documents\\projects\\thoth-api\\thoth-api\\thoth-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|solutionrelative:thoth-api\\thoth-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|c:\\users\\thalio\\documents\\projects\\thoth-api\\thoth-api\\dtos\\assessementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|solutionrelative:thoth-api\\dtos\\assessementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|c:\\users\\thalio\\documents\\projects\\thoth-api\\thoth-api\\infrastructure\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|solutionrelative:thoth-api\\infrastructure\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|c:\\users\\thalio\\documents\\projects\\thoth-api\\thoth-api\\dtos\\skilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|solutionrelative:thoth-api\\dtos\\skilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|c:\\users\\thalio\\documents\\projects\\thoth-api\\thoth-api\\domain\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|solutionrelative:thoth-api\\domain\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|c:\\users\\thalio\\documents\\projects\\thoth-api\\thoth-api\\dtos\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|solutionrelative:thoth-api\\dtos\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|c:\\users\\thalio\\documents\\projects\\thoth-api\\thoth-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|solutionrelative:thoth-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|c:\\users\\thalio\\documents\\projects\\thoth-api\\thoth-api\\extensions\\contextextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|solutionrelative:thoth-api\\extensions\\contextextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|c:\\users\\thalio\\documents\\projects\\thoth-api\\thoth-api\\enums\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|solutionrelative:thoth-api\\enums\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|c:\\users\\thalio\\documents\\projects\\thoth-api\\thoth-api\\domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|solutionrelative:thoth-api\\domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|c:\\users\\thalio\\documents\\projects\\thoth-api\\thoth-api\\domain\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|solutionrelative:thoth-api\\domain\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E71744DF-02E1-76C3-003B-A0C27BA35AC9}|thoth-api\\thoth-api.csproj|c:\\users\\thalio\\documents\\projects\\thoth-api\\thoth-api\\enums\\periodicity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,51 +54,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MetricDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\DTOs\\MetricDTO.cs",
-              "RelativeDocumentMoniker": "thoth-api\\DTOs\\MetricDTO.cs",
-              "ToolTip": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\DTOs\\MetricDTO.cs",
-              "RelativeToolTip": "thoth-api\\DTOs\\MetricDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T18:45:21.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AssessementDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\DTOs\\AssessementDTO.cs",
-              "RelativeDocumentMoniker": "thoth-api\\DTOs\\AssessementDTO.cs",
-              "ToolTip": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\DTOs\\AssessementDTO.cs",
-              "RelativeToolTip": "thoth-api\\DTOs\\AssessementDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T18:19:43.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\Presentation\\ProfileController.cs",
+              "RelativeDocumentMoniker": "thoth-api\\Presentation\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\Presentation\\ProfileController.cs",
+              "RelativeToolTip": "thoth-api\\Presentation\\ProfileController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwDAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T20:56:17.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ProfileService.cs",
               "DocumentMoniker": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\Application\\ProfileService.cs",
               "RelativeDocumentMoniker": "thoth-api\\Application\\ProfileService.cs",
               "ToolTip": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\Application\\ProfileService.cs",
               "RelativeToolTip": "thoth-api\\Application\\ProfileService.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAcwG8AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAGYAAAAAAAAAAIAwwHUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-06T13:41:50.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "thoth-api",
+              "DocumentIndex": 2,
+              "Title": "thoth-api.csproj",
               "DocumentMoniker": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\thoth-api.csproj",
               "RelativeDocumentMoniker": "thoth-api\\thoth-api.csproj",
               "ToolTip": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\thoth-api.csproj",
@@ -146,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Context.cs",
               "DocumentMoniker": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\Infrastructure\\Context.cs",
               "RelativeDocumentMoniker": "thoth-api\\Infrastructure\\Context.cs",
@@ -154,12 +105,11 @@
               "RelativeToolTip": "thoth-api\\Infrastructure\\Context.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T14:40:16.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T14:40:16.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Profile.cs",
               "DocumentMoniker": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\Domain\\Profile.cs",
               "RelativeDocumentMoniker": "thoth-api\\Domain\\Profile.cs",
@@ -167,8 +117,7 @@
               "RelativeToolTip": "thoth-api\\Domain\\Profile.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAApwEEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T15:01:07.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-25T15:01:07.757Z"
             },
             {
               "$type": "Document",
@@ -180,8 +129,7 @@
               "RelativeToolTip": "thoth-api\\Domain\\Entity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T13:02:17.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-25T13:02:17.864Z"
             },
             {
               "$type": "Document",
@@ -193,103 +141,11 @@
               "RelativeToolTip": "thoth-api\\Domain\\Metric.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T13:01:51.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-25T13:01:51.723Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Assessment.cs",
-              "DocumentMoniker": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\Domain\\Assessment.cs",
-              "RelativeDocumentMoniker": "thoth-api\\Domain\\Assessment.cs",
-              "ToolTip": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\Domain\\Assessment.cs",
-              "RelativeToolTip": "thoth-api\\Domain\\Assessment.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAhwBsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T15:25:26.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SkillDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\DTOs\\SkillDTO.cs",
-              "RelativeDocumentMoniker": "thoth-api\\DTOs\\SkillDTO.cs",
-              "ToolTip": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\DTOs\\SkillDTO.cs",
-              "RelativeToolTip": "thoth-api\\DTOs\\SkillDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T14:23:59.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Skill.cs",
-              "DocumentMoniker": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\Domain\\Skill.cs",
-              "RelativeDocumentMoniker": "thoth-api\\Domain\\Skill.cs",
-              "ToolTip": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\Domain\\Skill.cs",
-              "RelativeToolTip": "thoth-api\\Domain\\Skill.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T15:05:31.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProfileDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\DTOs\\ProfileDTO.cs",
-              "RelativeDocumentMoniker": "thoth-api\\DTOs\\ProfileDTO.cs",
-              "ToolTip": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\DTOs\\ProfileDTO.cs",
-              "RelativeToolTip": "thoth-api\\DTOs\\ProfileDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T14:04:43.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\Program.cs",
-              "RelativeDocumentMoniker": "thoth-api\\Program.cs",
-              "ToolTip": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\Program.cs",
-              "RelativeToolTip": "thoth-api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T15:14:41.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ContextExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\Extensions\\ContextExtension.cs",
-              "RelativeDocumentMoniker": "thoth-api\\Extensions\\ContextExtension.cs",
-              "ToolTip": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\Extensions\\ContextExtension.cs",
-              "RelativeToolTip": "thoth-api\\Extensions\\ContextExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T15:04:42.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DomainException.cs",
-              "DocumentMoniker": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\Domain\\Exceptions\\DomainException.cs",
-              "RelativeDocumentMoniker": "thoth-api\\Domain\\Exceptions\\DomainException.cs",
-              "ToolTip": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\Domain\\Exceptions\\DomainException.cs",
-              "RelativeToolTip": "thoth-api\\Domain\\Exceptions\\DomainException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T17:14:52.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 7,
               "Title": "Level.cs",
               "DocumentMoniker": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\Enums\\Level.cs",
               "RelativeDocumentMoniker": "thoth-api\\Enums\\Level.cs",
@@ -297,25 +153,11 @@
               "RelativeToolTip": "thoth-api\\Enums\\Level.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T15:07:23.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-25T15:07:23.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AggregateRoot.cs",
-              "DocumentMoniker": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\Domain\\AggregateRoot.cs",
-              "RelativeDocumentMoniker": "thoth-api\\Domain\\AggregateRoot.cs",
-              "ToolTip": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\Domain\\AggregateRoot.cs",
-              "RelativeToolTip": "thoth-api\\Domain\\AggregateRoot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T15:45:20.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 8,
               "Title": "Periodicity.cs",
               "DocumentMoniker": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\Enums\\Periodicity.cs",
               "RelativeDocumentMoniker": "thoth-api\\Enums\\Periodicity.cs",
@@ -323,12 +165,11 @@
               "RelativeToolTip": "thoth-api\\Enums\\Periodicity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T14:56:26.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-25T14:56:26.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 9,
               "Title": "MetricType.cs",
               "DocumentMoniker": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\Enums\\MetricType.cs",
               "RelativeDocumentMoniker": "thoth-api\\Enums\\MetricType.cs",
@@ -336,12 +177,11 @@
               "RelativeToolTip": "thoth-api\\Enums\\MetricType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T13:05:11.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-25T13:05:11.805Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 10,
               "Title": "AssessmentSource.cs",
               "DocumentMoniker": "C:\\Users\\Thalio\\Documents\\Projects\\thoth-api\\thoth-api\\Enums\\AssessmentSource.cs",
               "RelativeDocumentMoniker": "thoth-api\\Enums\\AssessmentSource.cs",
@@ -349,8 +189,7 @@
               "RelativeToolTip": "thoth-api\\Enums\\AssessmentSource.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T13:22:57.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-25T13:22:57.441Z"
             }
           ]
         }

@@ -1,5 +1,189 @@
 [
   {
+    "ContainingType": "thoth_api.Presentation.ProfileController",
+    "Method": "Get",
+    "RelativePath": "Profile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "thoth_api.Presentation.ProfileController",
+    "Method": "Create",
+    "RelativePath": "Profile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "thoth_api.DTO.ProfileDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "thoth_api.Presentation.ProfileController",
+    "Method": "FindById",
+    "RelativePath": "Profile/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "thoth_api.Presentation.ProfileController",
+    "Method": "Delete",
+    "RelativePath": "Profile/{profileId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "profileId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "thoth_api.Presentation.ProfileController",
+    "Method": "AddAssessement",
+    "RelativePath": "Profile/profile/add-assessment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "thoth_api.DTOs.AssessementDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "thoth_api.Presentation.ProfileController",
+    "Method": "AddMetricToAssessement",
+    "RelativePath": "Profile/profile/add-metric/{profileId}/{assessementId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "profileId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "assessementId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "thoth_api.DTOs.MetricDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "thoth_api.Presentation.ProfileController",
+    "Method": "AddSkill",
+    "RelativePath": "Profile/profile/add-skill",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "thoth_api.DTOs.SkillDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "thoth_api.Presentation.ProfileController",
+    "Method": "RemoveAssessement",
+    "RelativePath": "Profile/profile/remove-assessement/{profileId}/{assessementId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "profileId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "assessementId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "thoth_api.Presentation.ProfileController",
+    "Method": "RemoveMetricFromAssessement",
+    "RelativePath": "Profile/profile/remove-metric/{profileId}/{assessementId}/{metricId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "profileId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "assessementId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "metricId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "thoth_api.Presentation.ProfileController",
+    "Method": "RemoveSkill",
+    "RelativePath": "Profile/profile/remove-skill/{profileId}/{skillId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "profileId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "skillId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "thoth_api.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

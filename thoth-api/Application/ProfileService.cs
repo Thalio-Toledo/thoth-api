@@ -21,6 +21,21 @@ namespace thoth_api.Application
             return await _context.SaveChangesAsync() > 0;
         }
 
+        public async Task<bool> Delete(Guid profileId)
+        {
+            var profile = await _context.Profiles
+                .Include(p => p.Skills)
+                .FirstAsync(p => p.Id == profileId);
+
+            if (profile is not null)
+            {
+                profile.Active = false;
+                return await _context.SaveChangesAsync() > 0;
+            }
+
+            return false;
+        }
+
         public async Task<bool> AddSkill(SkillDTO dto)
         {
            var profile = await _context.Profiles
@@ -113,22 +128,6 @@ namespace thoth_api.Application
             }
             return false;
         }
-
-        public async Task<bool> Delete(Guid profileId) 
-        {
-            var profile = await _context.Profiles
-                .Include(p => p.Skills)
-                .FirstAsync(p => p.Id == profileId);
-
-            if (profile is not null)
-            {
-                profile.Active = false;
-                return await _context.SaveChangesAsync() > 0;
-            }
-
-            return false;
-        }
-
     }
 }
  
